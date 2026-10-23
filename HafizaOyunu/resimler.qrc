@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/arka.png</file>
+        <file>images/resim1.png</file>
+        <file>images/resim2.png</file>
+        <file>images/resim3.png</file>
+        <file>images/resim4.png</file>
+        <file>images/resim5.png</file>
+    </qresource>
+</RCC>
